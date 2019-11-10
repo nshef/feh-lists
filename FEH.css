@@ -8,6 +8,59 @@
 	mix-height: 40px;
 }
 
+.container {
+	margin: 100px auto;
+}
+
 table {
-	margin: 50px auto;
+	margin: 0px auto;
+}
+
+td {
+	padding: 0 20px;
+	text-align: center;
+}
+
+th {
+	padding: 0 20px;
+	text-align: center;
+}
+
+body {
+	background-color: #e1e8f5;
+}
+
+.card {
+	border-radius: 25px;
+	border: 3px solid #454545;
+}
+
+#headingRed {
+	background-color: #E82646;
+}
+
+#headingBlue {
+	background-color: #2865CF;
+}
+
+#headingGreen {
+	background-color: #0A994D;
+}
+
+#headingColorless {
+	background-color: #516A71;
+}
+
+.btn-link {
+	color: white;
+	font-weight: bold;
+}
+
+.btn-link:hover {
+	color: black;
+}
+
+.ten {
+	font-weight: bold;
+	color: #e3ac09;
 }
